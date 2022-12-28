@@ -1,0 +1,105 @@
+head {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#top-bar {
+    background-color: #333;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-bottom: 5px solid #fd8a24;
+    padding: 8px;
+}
+
+#header {
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+    
+}
+
+
+h2 {
+    color: #111;
+}
+
+.titulo {
+    /* height: 170px; */
+    font-size: 26px;
+    line-height: 64px;
+    font-weight:bolder;
+    /* letter-spacing: 0.1px; */
+}
+
+.subtitulo {
+    /* height: 80px; */
+    color: #555;
+    font-size: 25px;
+    font-weight: 400;
+    /* text-align:justify; */
+    /* letter-spacing: 0.1px; */
+    
+}
+
+.nome {
+    font-size: 15px;
+    color: #555;
+    font-weight: 800;
+    margin-bottom: 0;
+    height: 12px;
+    
+}
+
+.horário {
+    color:rgb(155, 155, 155); 
+    font-size: 11px;
+    font-weight: lighter;
+}
+
+.redes {
+    letter-spacing: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;    
+}
+
+#content {
+    max-width: 648px;
+    color: #555;
+    margin:auto;
+    font-size: 25px;
+    line-height: 32px;
+}
+    
+a {
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 30px 0;
+}
+
+figure {
+    padding: 0;
+    margin: 0;
+}
+
+figure>img {
+    width: 100%;
+}
+
+figcaption {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+#footbar {
+    background-color: #333;
+    height: 100px;
+}
